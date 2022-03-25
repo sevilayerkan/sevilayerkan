@@ -2,11 +2,11 @@
 
 ## :woman_technologist: &nbsp; About me
 
-- 🎓 &nbsp; I am studying as senior **Computer Engineering** student at Karadeniz Technical University. And I'm also sophomore at Anadolu University **Management Information Systems.**
-- 🤔 &nbsp; I have been into programming since high school. Programming, computers have always fascinated me. Therefore I tried so many fields about programming. I really like and eager to exploring new technologies everyday.
-- 🌱 &nbsp; Learning more about **DevOps, Cloud Architecture and Artifical Intelligence.**
-- ✍️ Currently learning more about and studying: **Container Technologies, Go, AWS** and so on.
-- :video_game: Fond of indie games, pixel art and cross stitching as hobbies.
+- 🎓 &nbsp; I'm studying as senior **Computer Engineering** student at Karadeniz Technical University. And I'm also sophomore at Anadolu University **Management Information Systems.**
+- 🤔 &nbsp; I really like and eager to exploring new technologies.
+- 🌱 &nbsp; I’m currently working on **DevOps, Cloud Architecture and Artifical Intelligence.**
+- ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, Go, AWS** and so on.
+- :video_game: &nbsp; Fond of indie games, pixel art and cross stitching as hobbies.
 
 ![Sevilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevilayerkan&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=issues,contribs)
 
