@@ -8,9 +8,17 @@
 - ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, Go, AWS** and so on.
 - :video_game: &nbsp; Fond of indie games, pixel art and cross stitching as hobbies.
 
+<div align="center">
+
 ![Sevilay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sevilayerkan&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=issues,contribs)
 
+</div>
+
+<div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevilayerkan&layout=compact&theme=radical)
+
+</div>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -32,6 +40,7 @@
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo.png" alt="canva" width="40" height="40"/> </a>
 
