@@ -4,9 +4,9 @@
 
 - 🎓 &nbsp; I'm studying as senior **Computer Engineering** student at Karadeniz Technical University. And I'm also sophomore at Anadolu University **Management Information Systems.**
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-- 🌱 &nbsp; I’m currently working on **DevOps, Cloud Architecture and Artifical Intelligence.**
-- ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, Go, AWS** and so on.
-- :video_game: &nbsp; Fond of indie games, pixel art and cross stitching as hobbies.
+- 🌱 &nbsp; I’m currently working on **DevOps and Cloud Architecture**
+- ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, DevOps Technologies** and so on.
+- :video_game: &nbsp; Fond of indie games and cross stitching as hobbies.
 
 <div align="center">
 
