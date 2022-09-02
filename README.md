@@ -1,3 +1,11 @@
+<!-- Author - Sevilay Erkan -->
+
+<!--
+NOTES
+[EN] This README file is my original design, you can use it but before you use it please make some changes. I kindly ask not copying whole sentences. If you have any questions or you need help while making your README file you can reach out me from my contact info down below. :)
+[TR] Bu README dosyası orijinal tasarımımdır, kullanmanızda sakınca yoktur ancak lütfen kullanırken bazı yerleri değiştirin. Cümleleri aynı şekilde almamanızı rica ederim. Bir sorunuz olursa veya kendi README dosyanızı oluştururken desteğe ihtiyacınız olursa iletişim bilgilerimden bana ulaşabilirsiniz. :) 
+-->
+
 <h1 align=center> Hi, I'm Sevilay 👋 </h1>
 
 ## :woman_technologist: &nbsp; About me
