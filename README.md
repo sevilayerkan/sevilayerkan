@@ -32,7 +32,7 @@ NOTES
 
 - 📫 For reaching out via email : sevilayerkan2@gmail.com
 - 💼 Connecting on  [LinkedIn](https://www.linkedin.com/in/sevilayerkan/)
-- 🐦 For [Twitter](twitter.com/sevilayerkan0)
+- 🐦 For [Twitter](https://www.twitter.com/sevilayerkan0)
 
 ## 🛠 &nbsp;Tech Stack
 
