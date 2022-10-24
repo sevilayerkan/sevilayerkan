@@ -2,15 +2,15 @@
 
 <!--
 NOTES
-[EN] This README file is my original design, you can use it but before you use it please make some changes. I kindly ask not copying whole sentences. If you have any questions or you need help while making your README file you can reach out me from my contact info down below. :)
-[TR] Bu README dosyası orijinal tasarımımdır, kullanmanızda sakınca yoktur ancak lütfen kullanırken bazı yerleri değiştirin. Cümleleri aynı şekilde almamanızı rica ederim. Bir sorunuz olursa veya kendi README dosyanızı oluştururken desteğe ihtiyacınız olursa iletişim bilgilerimden bana ulaşabilirsiniz. :) 
+[EN] If you have any questions or you need help while making your README file you can always reach out me from my contact info down below. :)
+[TR] Kendi README dosyanızı oluştururken desteğe ihtiyacınız olursa iletişim bilgilerimden bana ulaşabilirsiniz. :) 
 -->
 
 <h1 align=center> Hi, I'm Sevilay 👋 </h1>
 
 ## :woman_technologist: &nbsp; About me
 
-- 🎓 &nbsp; I'm studying as senior **Computer Engineering** student at Karadeniz Technical University. And I'm also sophomore at Anadolu University **Management Information Systems.**
+- 🎓 &nbsp; I'm studying as **Computer Engineering** student at Karadeniz Technical University and **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
 - 🌱 &nbsp; I’m currently working on **DevOps and Cloud Architecture**
 - ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, DevOps Technologies** and so on.
@@ -75,4 +75,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+Some places I inspired from:
+
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/abhisheknaiidu/awesome-github-profile-readme
+https://github.com/ryo-ma/github-profile-trophy
+
 -->
