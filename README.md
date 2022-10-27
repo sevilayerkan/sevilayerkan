@@ -10,7 +10,7 @@ NOTES
 
 ## :woman_technologist: &nbsp; About me
 
-- 🎓 &nbsp; I'm studying as **Computer Engineering** student at Karadeniz Technical University and **Management Information Systems** at Anadolu University.
+- 🎓 &nbsp; I'm studying **Computer Engineering** at KTÜ and **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
 - 🌱 &nbsp; I’m currently working on **DevOps and Cloud Architecture**
 - ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, DevOps Technologies** and so on.
