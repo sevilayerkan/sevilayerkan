@@ -15,6 +15,7 @@ NOTES
 - 🌱 &nbsp; I’m currently working on **DevOps and Cloud Architecture**
 - ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, DevOps Technologies** and so on.
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobbies.
+- :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
 
 ## 🤝🏻 &nbsp;Connect with Me
 
