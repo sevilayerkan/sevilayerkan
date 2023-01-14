@@ -47,11 +47,7 @@ NOTES
 
 ----
 
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sevilayerkan&layout=compact&theme=radical)
-
-</div>
 
 <p align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=sevilayerkan&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/> </p>
 
