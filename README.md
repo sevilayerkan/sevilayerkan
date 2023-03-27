@@ -12,8 +12,7 @@ NOTES
 
 - 🎓 &nbsp; I'm studying **Computer Engineering** at KTÜ and **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-- 🌱 &nbsp; I’m currently working on **DevOps and Cloud Architecture**
-- ✍️ &nbsp; Currently learning more about and studying: **Container Technologies, DevOps Technologies** and so on.
+- 🌱 &nbsp; I’m currently working on **DevOps and Web Technologies**
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
 - :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
 
@@ -45,6 +44,8 @@ NOTES
 
 </p>
 
+
+<!--
 ----
 
 
@@ -52,6 +53,7 @@ NOTES
 <p align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=sevilayerkan&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/> </p>
 
 ----
+-->
 
  <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sevilayerkan&label=Profile%20views&color=0e75b6&style=flat" alt="sevilayerkan" /> </p>
 
