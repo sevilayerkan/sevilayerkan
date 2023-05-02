@@ -12,7 +12,7 @@ NOTES
 
 - 🎓 &nbsp; I'm studying **Computer Engineering** at KTÜ and **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-- 🌱 &nbsp; I’m currently working on **DevOps and Web Technologies**
+<!--- 🌱 &nbsp; I’m currently working on **DevOps and Web Technologies**-->
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
 - :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
 
