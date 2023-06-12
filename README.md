@@ -1,5 +1,4 @@
 <!-- Author - Sevilay Erkan -->
-<h1> AysArt ve izleyicilerine selamlar 💌 </h1>
 
 <!--
 NOTES
@@ -7,7 +6,6 @@ NOTES
 [TR] Kendi README dosyanızı oluştururken desteğe ihtiyacınız olursa iletişim bilgilerimden bana ulaşabilirsiniz. :) 
 -->
 
-<!--
 <h1 align=center> Hi, I'm Sevilay 👋 </h1>
 
 ## :woman_technologist: &nbsp; About me
@@ -46,16 +44,9 @@ NOTES
 
 </p>
 
--->
-<!--
-----
-
-
-
 <p align="center"> <img src = "https://github-readme-streak-stats.herokuapp.com?user=sevilayerkan&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D"/> </p>
 
 ----
--->
 
  <p align = "center"> <img src="https://komarev.com/ghpvc/?username=sevilayerkan&label=Profile%20views&color=0e75b6&style=flat" alt="sevilayerkan" /> </p>
 
