@@ -1,4 +1,5 @@
 <!-- Author - Sevilay Erkan -->
+<h1> AysArt ve izleyicilerine selamlar 💌 </h1>
 
 <!--
 NOTES
@@ -6,15 +7,16 @@ NOTES
 [TR] Kendi README dosyanızı oluştururken desteğe ihtiyacınız olursa iletişim bilgilerimden bana ulaşabilirsiniz. :) 
 -->
 
+<!--
 <h1 align=center> Hi, I'm Sevilay 👋 </h1>
 
 ## :woman_technologist: &nbsp; About me
 
 - 🎓 &nbsp; I'm studying **Computer Engineering** at KTÜ and **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-<!--- 🌱 &nbsp; I’m currently working on **DevOps and Web Technologies**-->
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
 - :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -44,7 +46,7 @@ NOTES
 
 </p>
 
-
+-->
 <!--
 ----
 
