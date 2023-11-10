@@ -10,8 +10,11 @@ NOTES
 
 ## :woman_technologist: &nbsp; About me
 
-- 🎓 &nbsp; I'm studying **Computer Engineering** at KTÜ and **Management Information Systems** at Anadolu University.
+- 🎓 &nbsp; I studied **Computer Engineering** at KTÜ and currently studying **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
+- 🔭 I’m currently working on Quality Assurance.
+- 🌱 I’m currently learning backend technologies.
+- 💬 You can ask me about QA and DevOps.
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
 - :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
 
