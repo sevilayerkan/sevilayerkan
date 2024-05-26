@@ -22,7 +22,6 @@ NOTES
 ## 🤝🏻 &nbsp;Connect with Me
 
 - 💼 Connecting on  [LinkedIn](https://www.linkedin.com/in/sevilayerkan/)
-- 🐦 For [Twitter](https://www.twitter.com/sevilayerkan0)
 - For checkout my blog page: [Medium](https://medium.com/@sevilayerkan)
 
 ## 🛠 &nbsp;Tech Stack
