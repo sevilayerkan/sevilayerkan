@@ -16,7 +16,6 @@ NOTES
 - 🌱 I’m currently learning backend technologies.
 - 💬 You can ask me about QA and DevOps.
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
-- :video_game: &nbsp; Streaming on Twitch, as [notDepresseDeveloper](https://www.twitch.tv/notdepressedeveloper)
 
 
 ## 🤝🏻 &nbsp;Connect with Me
