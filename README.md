@@ -12,15 +12,15 @@ NOTES
 
 - 🎓 &nbsp; I studied **Computer Engineering** at KTÜ and currently studying **Management Information Systems** at Anadolu University.
 - 🤔 &nbsp; I really like and eager to exploring new technologies.
-- 🔭 I’m currently working on Quality Assurance.
-- 🌱 I’m currently learning backend technologies.
-- 💬 You can ask me about QA and DevOps.
+- 🔭 &nbsp; I’m currently working on Quality Assurance.
+- 🌱 &nbsp; I’m currently learning backend technologies.
+- 💬 &nbsp; You can ask me about QA and DevOps.
 - :video_game: &nbsp; Fond of indie games and cross stitching as hobby.
 
 
 ## 🤝🏻 &nbsp;Connect with Me
 
-- 💼 Connecting on  [LinkedIn](https://www.linkedin.com/in/sevilayerkan/)
+- 💼 &nbsp; Connecting on  [LinkedIn](https://www.linkedin.com/in/sevilayerkan/)
 - For checkout my blog page: [Medium](https://medium.com/@sevilayerkan)
 
 ## 🛠 &nbsp;Tech Stack
